@@ -1,0 +1,85 @@
+ul {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    z-index: 100;
+}
+ul:after {
+    display: block;
+    content: ' ';
+    clear: both;
+    float: none;
+}
+ul.menu > li {
+    float: left;
+}
+ul.menu > li > a {
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+ul.submenu {
+    display: none;
+    position: absolute;
+    top: 28px;
+}
+ul.submenu > li {
+    display: block;
+}
+ul.submenu > li > a {
+        padding: 7px 10px;
+        font-family: arial;
+        font-size: 13px;
+        color: white;
+        display: block;
+        background: url(../image/submenu.jpg);
+        width: 150px;
+        text-decoration: none;
+        }
+ul.menu > li:hover > ul.submenu {
+    display: block;
+}
+.mainmenu1{
+        margin-top: -1px;
+        background: url(../image/mainmenu01.jpg);
+        width: 175px;
+        height: 29px;
+        }
+.mainmenu2{
+        margin-top: -1px;
+        background: url(../image/mainmenu02.jpg);
+        width: 150px;
+        height: 29px;
+        }
+.mainmenu3{
+        margin-top: -1px;
+        background: url(../image/mainmenu03.jpg);
+        width: 119px;
+        height: 29px;
+        }
+.mainmenu4{
+        margin-top: -1px;
+        background: url(../image/mainmenu04.jpg);
+        width: 138px;
+        height: 29px;
+        }
+.mainmenu5{
+        margin-top: -1px;
+        background: url(../image/mainmenu05.jpg);
+        width: 187px;
+        height: 29px;
+        }
+.mainmenu6{
+        margin-top: -1px;
+        background: url(../image/mainmenu06.jpg);
+        width: 98px;
+        height: 29px;
+        }
+.mainmenu7{
+        margin-top: -1px;
+        background: url(../image/mainmenu07.jpg);
+        width: 133px;
+        height: 29px;
+        }

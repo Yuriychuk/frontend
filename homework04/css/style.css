@@ -1,0 +1,143 @@
+body{
+        background: url(../image/Back1.jpg) repeat;
+        font-family: arial;
+        }
+.clearfix:after{
+        content: '';
+        clear: both;
+        }
+.sheet{
+        background: white;
+        margin: 0px auto;
+        display: block;
+        width: 1000px;
+        height: auto;
+        }
+.shadow{
+        box-shadow: 0px 3px 10px -1px; /* Параметры тени */
+        }
+.shadow2{
+        box-shadow: 0px 2px 2px -1px; /* Параметры тени */
+        }
+        /*Header*/
+.logo{
+        margin: -1px -1px -1px 0px;;
+        float: left;
+        display: block;
+        }
+.contacts{
+        float: left;
+        margin: 11px 10px 0px 518px;
+        display: block;
+        list-style: none;
+        color: #128aa7;
+        font-size: 12px;
+        }
+.contacts li{
+        margin-bottom: 6px;
+        }
+.contaktsbold{
+        color: #128aa7;
+        font-size: 13px;
+        font-weight: bold;
+        }
+        /*Countries*/
+.countries{
+        list-style: none; /* прячем маркеры */
+        padding-top: 111px;
+        margin-left: 640px;
+        }
+.countries li{
+        float: left; /* выстраиваем элементы списка в один ряд */
+        margin-right: 15px; /* делаем отступ чтобы пункты меню не сливались */
+        }
+.countries li a{
+        display: block;
+        text-align: center;
+        padding-top: 45px; /* внутренний остту чтобы текст был вне фона */
+        color: #128aa7;
+        font-size: 9px;
+        font-weight: bold;
+        background-position: center top; /* выравниваем фон вверх и по центру */
+        background-repeat: no-repeat;
+        width: 42px; /* размеры указываем чтобы картинки полностью отобразились */
+        }
+.countries .india a{
+        background-image: url(../image/Flag01.jpg);
+        }
+.countries .nepal a{
+        background-image: url(../image/Flag02.jpg);
+        }
+.countries .tibet a{
+        background-image: url(../image/Flag03.jpg);
+        }
+.countries .butan a{
+        background-image: url(../image/Flag04.jpg);
+        }
+.countries .shrilanka a{
+        background-image: url(../image/Flag05.jpg);
+        }
+.countries .maldivy a{
+        background-image: url(../image/Flag06.jpg);
+        }
+.countrtxt{
+        margin-left: -5px;
+        width: 51px;
+        }
+        /*Columns*/
+.fon{
+        width: 1000px;
+        overflow: hidden; /* чтобы лишее обрезалось */
+        }
+.leftColumn{
+        margin-top: 0px;
+        width: 208px;
+        float: left;
+        background: #edeef0;
+        border: 1px solid #c7cacf;
+        padding-bottom: 20000px;
+        margin-bottom: -20000px;
+        position: relative;
+        z-index: 3;
+        }
+.centerColumn{
+        width: 579px;
+        float: left;
+        background: none;
+        padding-bottom: 20000px;
+        margin-bottom: -20000px;
+        position: relative;
+        z-index: 1;
+        }
+.rightColumn{
+        margin-top: 0px;
+        width: 208px;
+        float: right;
+        background: #edeef0;
+        border: 1px solid #c7cacf;
+        padding-bottom: 20000px;
+        margin-bottom: -20000px;
+        position: relative;
+        z-index: 2;
+        }
+.text1{
+        margin: 8px;
+        text-align: center;
+        color: #424c43;
+        font-size: 19px;
+        font-weight: bold;
+        }
+.text2{
+        margin: 13px;
+        text-align: left;
+        color: #424c43;
+        font-size: 14px;
+        font-weight: normal;
+        }
+.text3{
+        padding: 12px;
+        color: white;
+        text-align: center;
+        font-size: 11px;
+        font-weight: normal;
+        }
