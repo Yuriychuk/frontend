@@ -1,0 +1,129 @@
+body{
+        background: white;
+        }
+.sheet{
+        background: white;
+        margin: 15px auto;;
+        padding: 0px;
+        display: block;
+        width: 500px;
+        height: 541px;
+        }
+.shadow{
+        box-shadow: 2px 2px 8px -1px;
+        }
+.cell11{
+        width: 115px;
+        height: 47px;
+        background-color: white;
+        border: 10px solid black;
+        border-top: 0px;
+        border-left: 0px;
+}
+.cell13{
+        width: 202px;
+        background-color: white;
+        border: 10px solid black;
+        border-top: 0px;
+}
+.cell15{
+        width: 163px;
+        background-color: #ffe94c;
+        border: 10px solid black;
+        border-top: 0px;
+        border-right: 0px;
+}
+.cell21{
+        width: 50px;
+        height: 128px;
+        background-color: white;
+        border: 10px solid black;
+        border-left: 0px;
+}
+.cell22{
+        width: 267px;
+        background-color: #ff541b;
+        border: 10px solid black;
+}
+.cell25{
+        width: 163px;
+        background-color: #ffe94c;
+        border: 10px solid black;
+        border-right: 0px;
+}
+.cell31{
+        width: 50px;
+        background-color: white;
+        border: 10px solid black;
+        border-left: 0px;
+}
+.cell35{
+        width: 78px;
+        height: 130px;
+        background-color: white;
+        border: 10px solid black;
+}
+.cell36{
+        width: 75px;
+        height: 130px;
+        background-color: white;
+        border: 10px solid black;
+        border-right: 0px;
+}
+.cell42{
+        width: 130px;
+        background-color: #3d3d3d;
+        border: 10px solid black;
+}
+.cell44{
+        width: 127px;
+        height: 60px;
+        background-color: white;
+        border: 10px solid black;
+}
+.cell45{
+        width: 163px;
+        height: 60px;
+        background-color: white;
+        border: 10px solid black;
+        border-right: 0px;
+}
+.cell51{
+        width: 50px;
+        background-color: #ffe94c;
+        border: 10px solid black;
+        border-left: 0px;
+        border-bottom: 0px;
+}
+.cell54{
+        width: 127px;
+        height: 58px;
+        background-color: white;
+        border: 10px solid black;
+}
+.cell55{
+        width: 163px;
+        background-color: #004483;
+        border: 10px solid black;
+        border-right: 0px;
+}
+.cell62{
+        width: 130px;
+        background-color: white;
+        border: 10px solid black;
+        border-bottom: 0px;
+}
+.cell64{
+        width: 127px;
+        height: 27px;
+        background-color: #3d3d3d;
+        border: 10px solid black;
+}
+.cell74{
+        width: 300px;
+        height: 31px;
+        background-color: white;
+        border: 10px solid black;
+        border-right: 0px;
+        border-bottom: 0px;
+}
