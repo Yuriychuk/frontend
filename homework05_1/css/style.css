@@ -1,0 +1,154 @@
+body{
+        background: gray;
+        font-family: "Helvetica Neue Regular", arial, tahoma;
+        }
+.clearfix:after{
+        content: '';
+        clear: both;
+        }
+@font-face{
+        font-family: "Helvetica Neue Regular";
+        src: url('../fonts/helveticaneue-thin-webfont.eot');
+        src: url('../fonts/helveticaneue-thin-webfont.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/helveticaneue-thin-webfont.woff2') format('woff2'),
+             url('../fonts/helveticaneue-thin-webfont.woff') format('woff'),
+             url('../fonts/helveticaneue-thin-webfont.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
+.sheet{
+        background: white;
+        margin: 0px auto;
+        display: block;
+        width: 1215px;
+        height: 1064px;
+        }
+.workspace{
+        margin: 0px;
+        padding: 0px;
+        background: url(../image/bgmain.jpg);
+        width: 1215px;
+        height: 1028px;
+        }
+.field1{
+        padding-top: 213px;
+}
+.regname{
+        margin-left: 353px;
+        padding: 0px;
+        background-color: rgba(0,0,0,.67);
+        border: 1px solid #484848;
+        width: 560px;
+        height: 62px;
+        }
+.regnametxt{
+        margin: 18px 37%;
+        color: white;
+        font-family: "Helvetica Neue Regular", arial, tahoma;
+        font-size: 24px;
+        }
+.regforms{
+        margin: 2px 0px 0px 353px;
+        padding: 0px;
+        background-color: rgba(0,0,0,.67);
+        border: 1px solid #484848;
+        width: 560px;
+        height: 549px;
+        }
+.loginfb{
+        margin: 36px 0px 0px 142px;
+        padding: 0px;
+        display: block;
+        background: url(../image/fb1.png);
+        width: 276px;
+        height: 35px;
+        }
+a.loginfb:active{
+        background: url(../image/fb2.png);
+        }
+.lineou{
+        margin: 25px 0px 0px 142px;
+        padding: 0px;
+        display: block;
+        width: 276px;
+        height: 35px;
+        }
+.lineouimg{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        display: block;
+        }
+.lineoutxt{
+        margin: 5px 4px;
+        color: gray;
+        float: left;
+        display: block;
+        font-family: "Helvetica Neue Regular", tahoma, arial;
+        font-size: 15px;
+        }
+.boxform{
+        margin-top: -1px;
+        }
+.forms{
+        margin: 17px auto;
+        padding-left: 19px;
+        width: 257px;
+        height: 32px;
+        display: block;
+        background-color: rgba(0,0,0,.67);
+        border: none;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: #4a4948;
+        list-style-type: none;
+        color: white;
+        font-family: "Helvetica Neue Regular", tahoma, arial;
+        font-size: 14px;
+        transition: all 0.30s ease-in-out;
+        -webkit-transition: all 0.30s ease-in-out;
+        -moz-transition: all 0.30s ease-in-out;
+        outline:none;
+        }
+.forms:focus {
+        background-color: rgba(27,82,136,.9);
+        box-shadow: 0 0 8px rgba(81, 203, 238, 1);
+        }
+.chbox{
+        margin: 17px auto 0px auto;
+        padding: 0px;
+        width: 276px;
+        height: 35px;
+        color: #B8B8B8;
+        font-family: "Helvetica Neue Regular", tahoma, arial;
+        font-size: 14px;
+  }
+.submit1{
+        margin: 2px auto;
+        padding: 0px;
+        display: block;
+        background: url(../image/submitbutton1.png);
+        width: 151px;
+        height: 37px;
+        }
+a.submit1:active{
+        background: url(../image/submitbutton2.png);
+        }
+.submit2{
+        margin: 0px;
+        padding: 0px;
+        background: none;
+        border: none;
+        width: 151px;
+        height: 37px;
+        }
+.conditions{
+        margin: 17px auto;
+        padding: 0px;
+        display: block;
+        color: #B8B8B8;
+        font-family: "Helvetica Neue Regular", tahoma, arial;
+        font-size: 11px;
+        text-align: center;
+
+}

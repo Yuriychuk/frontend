@@ -1,0 +1,138 @@
+.mainmenu{
+        margin: 0px;
+        padding: 0px;
+        width: 1215px;
+        height: 36px;
+        }
+.mainmenu1{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        background: url(../image/mainmenu1.jpg);
+        width: 456px;
+        height: 36px;
+        }
+a.mainmenu2{
+          margin: 0px;
+          padding: 0px;
+          float: left;
+          background: url(../image/mainmenu2_1.jpg);
+          display: block;
+          width: 104px;
+          height: 36px; /*  Высота рисунка */
+        }
+a.mainmenu2:hover{
+          background: url(../image/mainmenu2_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+a.mainmenu3{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        background: url(../image/mainmenu3_1.jpg);
+        width: 70px;
+        height: 36px;
+        }
+a.mainmenu3:hover{
+        background: url(../image/mainmenu3_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+a.mainmenu4{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        background: url(../image/mainmenu4_1.jpg);
+        display: block;
+        width: 64px;
+        height: 36px; /*  Высота рисунка */
+        }
+a.mainmenu4:hover{
+        background: url(../image/mainmenu4_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+a.mainmenu5{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        background: url(../image/mainmenu5_1.jpg);
+        width: 77px;
+        height: 36px;
+        }
+a.mainmenu5:hover{
+        background: url(../image/mainmenu5_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+a.mainmenu6{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        background: url(../image/mainmenu6_1.jpg);
+        width: 72px;
+        height: 36px;
+        }
+        a.mainmenu6:hover{
+        background: url(../image/mainmenu6_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+.mainmenu7{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        background: url(../image/mainmenu7.jpg);
+        width: 1px;
+        height: 36px;
+        }
+a.mainmenu8{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        background: url(../image/mainmenu8_1.jpg);
+        width: 160px;
+        height: 36px;
+        }
+a.mainmenu8:hover{
+        background: url(../image/mainmenu8_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+.mainmenu9{
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        display: block;
+        background: url(../image/mainmenu9_1.jpg);
+        width: 191px;
+        height: 36px;
+        }
+.mainmenu9:hover{
+        background: url(../image/mainmenu9_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+.mainmenu10{
+        margin: 0px;
+        padding: 0px;
+        display: block;
+        float: left;
+        background: url(../image/mainmenu10.jpg);
+        width: 20px;
+        height: 36px;
+        }
+.mainmenutxt1{
+        margin-top: 11px;
+        margin-right: 5px;
+        color: white;
+        text-decoration: none;
+        float: left;
+        font-family: "Helvetica Neue Regular", arial, tahoma;
+        font-size: 14px;
+        }
+.mainmenutxt2{
+        margin-top: 11px;
+        margin-right: 5px;
+        color: white;
+        float: left;
+        text-decoration: none;
+        font-family: "Helvetica Neue Regular", arial, tahoma;
+        font-size: 14px;
+        }
+.mainmenutxt2:hover{
+        text-decoration: underline;
+        }
+.txtretreat1{
+        margin-left: 50px;
+        }
+.txtretreat2{
+        margin-left: 12px;
+        }
