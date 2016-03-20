@@ -1,0 +1,380 @@
+/*Поиск по автомобилю*/
+.searchcar{
+    margin: 12px 0px 0px 8px;
+    float: left;
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #949496;
+    width: 413px;
+    height: 132px;
+    box-shadow: 2px 2px 5px 0px rgba(180,180,180,3);
+}
+
+.titlecar{
+    list-style-type: none;
+    color: #154467;
+    font-family: "arialblack", arial, tahoma, sans-serif;
+
+    text-decoration: none;
+}
+
+.titlecar1{
+    margin: 5px 0px 0px 20px;
+    font-size: 9px;
+    float: left;
+    letter-spacing: 1px;
+}
+
+.titlecar2{
+    margin: 0px 0px 0px 67px;
+    font-size: 12px;
+    float: left;
+}
+
+.titlecar3{
+    margin: 2px 0px 0px 75px;
+    font-size: 10px;
+    float: left;
+}
+
+.cardetails{
+    clear: both;
+    margin: 11px 0px 0px 17px;
+    list-style-type: none;
+    font-family: arial, tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 9px;
+    font-weight: bold;
+    color: black;
+    float: left;
+    width: 73px;
+}
+
+.cardetailsgray{
+    color: #77858b;
+}
+
+.cardetails2{
+    margin-top: 6px;
+}
+
+.cardetails3{
+    margin-top: 5px;
+}
+
+.cardetails4{
+    margin-top: 8px;
+}
+
+.box01-search-model{
+    margin: 4px 0px 0px 3px;
+    float: left;
+    font-family: arial, tahoma, sans-serif;
+    width: 101px;
+}
+
+.carmodel1{
+    margin: 0px;
+    width: 101px;
+    height: 17px;
+    font-size: 10px;
+}
+
+.carmodel2{
+    margin-top: 5px;
+    width: 101px;
+    height: 17px;
+    font-size: 10px;
+}
+
+.carmodel3{
+    margin-top: 5px;
+    width: 57px;
+    height: 17px;
+    font-size: 10px;
+}
+
+.cardetails02{
+    margin: 9px 0px 0px 28px;
+    list-style-type: none;
+    font-family: arial, tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 9px;
+    font-weight: bold;
+    color: black;
+    float: left;
+    width: 73px;
+}
+
+.box02-search-model{
+    margin: 2px 0px 0px 3px;
+    float: left;
+    font-family: arial, tahoma, sans-serif;
+    width: 101px;
+}
+
+.searchbutton1{
+    margin: 5px 0px 0px 140px;
+    font-size: 14px;
+    color: #154467;
+    font-family: arial, tahoma, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    width: auto;
+}
+
+/*Поиск шин*/
+.searchtire{
+    margin: 11px 0px 0px 14px;
+    float: left;
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #949496;
+    width: 192px;
+    height: 134px;
+    box-shadow: 2px 2px 5px 0px rgba(180,180,180,3);
+}
+
+.titletire{
+    margin: 2px 0px 0px 11px;
+    font-size: 12px;
+    display: block;
+    color: #154467;
+    font-family: "arialblack", arial, tahoma, sans-serif;
+}
+
+.tiredetails{
+    margin: 16px 0px 0px 13px;
+    list-style-type: none;
+    font-family: arial, tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 9px;
+    font-weight: bold;
+    color: black;
+    float: left;
+    width: 41px;
+}
+
+.tiredetails2{
+    margin: 12px 0px 0px 32px;
+    font-size: 10px;
+}
+
+.tiredetails3{
+    margin: 8px 0px 0px 2px;
+}
+
+.tiremodel{
+    margin: 7px 0px 0px 5px;
+    float: left;
+    display: block;
+    list-style-type: none;
+    font-family: arial, tahoma, sans-serif;
+    text-decoration: none;
+    width: 132px;
+    height: 47px;
+}
+
+.tiremodel1{
+    margin: 1px 0px 0px 0px;
+    width: 50px;
+    height: 17px;
+    font-size: 10px;
+    display: block;
+    float: left;
+}
+
+.tiremodel2{
+    margin: 1px 0px 0px 2px;
+    width: 51px;
+    height: 17px;
+    font-size: 10px;
+    display: block;
+    float: left;
+}
+
+.tiremodel3{
+    margin-top: 7px;
+    width: 44px;
+    height: 17px;
+    font-size: 10px;
+}
+
+.tiredetails4{
+    margin: 4px 0px 0px 6px;
+    list-style-type: none;
+    font-family: arial, tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    float: left;
+    display: block;
+    width: 8px;
+}
+
+.tire-check-box{
+    margin: 0px 0px 0px 3px;
+    float: left;
+    display: block;
+}
+
+.tirecheck1{
+    margin: 0px;
+}
+
+.tirecheck2{
+    clear: both;
+    margin: 0px 0px 0px 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+
+.searchbutton2{
+    margin: -10px 0px 0px 115px;
+    font-size: 14px;
+    color: #154467;
+    font-family: arial, tahoma, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    width: auto;
+}
+
+/*Поиск дисков*/
+.searchdisk{
+    margin: 10px 0px 0px 10px;
+    float: left;
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #949496;
+    width: 265px;
+    height: 134px;
+    box-shadow: 2px 2px 5px 0px rgba(180,180,180,3);
+}
+
+.titledisk{
+    margin: 1px 0px 0px 8px;
+    float: left;
+    font-size: 14px;
+    display: block;
+    color: #154467;
+    font-family: "arialblack", arial, tahoma, sans-serif;
+    width: 120px;
+}
+
+.diskdetails{
+    clear: both;
+    margin: 10px 0px 0px 16px;
+    list-style-type: none;
+    font-family: arial, tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: bold;
+    color: black;
+    float: left;
+    width: 88px;
+}
+
+.diskdetailsgray{
+    color: #77858b;
+    font-size: 10px;
+}
+
+.diskdetails2{
+    font-size: 10px;
+    margin-top: 4px;
+}
+
+.diskdetails3{
+    font-size: 10px;
+    margin-top: 1px;
+}
+
+.search-disk-box{
+    margin: 5px 0px 0px 2px;
+    float: left;
+    font-family: arial, tahoma, sans-serif;
+}
+
+.diskmodel1{
+    margin-top: 0px;
+    width: 56px;
+    height: 17px;
+    font-size: 10px;
+}
+
+.diskmodel2{
+    margin-top: 14px;
+    width: 49px;
+    height: 17px;
+    font-size: 10px;
+}
+
+.diskmodel3{
+    margin-top: 15px;
+    width: 57px;
+    height: 17px;
+    font-size: 10px;
+}
+
+.diskborder{
+    margin: -12px 0px 0px 12px;
+    float: left;
+    background-color: #929292;
+    width: 1px;
+    height: 106px;
+}
+
+.dco{
+    margin: -15px 0px 0px 10px;
+    list-style-type: none;
+    font-family: arial, tahoma, sans-serif;
+    text-decoration: none;
+    float: left;
+    width: 70px;
+    font-weight: bold;
+    color: black;
+}
+
+.dco1{
+    font-size: 10px;
+    margin-top: 4px;
+}
+
+.dco2{
+    margin-top: 2px;
+    width: 58px;
+    height: 16px;
+    font-size: 10px;
+}
+
+.dcogray{
+    margin-top: 0px;
+    color: #77858b;
+    font-size: 8px;
+    display: block;
+}
+
+.et1{
+    margin: 8px 0px 0px -2px;
+    font-size: 10px;
+    display: block;
+}
+
+.et2{
+    margin-top: 4px;
+    width: 58px;
+    height: 16px;
+    font-size: 10px;
+}
+
+.searchbutton3{
+    margin: -4px 0px 0px 189px;
+    font-size: 14px;
+    color: #154467;
+    font-family: arial, tahoma, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    width: auto;
+}

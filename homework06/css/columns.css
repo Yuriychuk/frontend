@@ -1,0 +1,234 @@
+.leftColumn{
+    clear: both;
+    margin: 15px 0px 0px 3px;
+    float: left;
+    display: block;
+    width: 191px;
+    height: 627px;
+}
+
+.katalog{
+    margin: 3px 0px 14px 2px;
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #8b979c;
+    width: 180px;
+    height: 24px;
+    box-shadow: 1px 2px 2px 0px rgba(180,180,180,3);
+    display: block;
+}
+
+.katalogicon{
+    margin: 1px 0px 0px 2px;
+    float: left;
+    display: block;
+    width: 22px;
+    height: 22px;
+    background: url(../image/katalogicon.png);
+    list-style-type: none;
+}
+
+.katalogtxt{
+    margin: 7px 0px 0px 3px;
+    float: left;
+    display: block;
+    font-size: 13px;
+    color: #114165;
+    font-family: "Lucida Sans Unicoderegular", arial, tahoma;
+}
+
+.product{
+    clear: both;
+    margin: 0px 0px 0px 4px;
+    background: white;
+    border-radius: 12px;
+    border: 1px solid #8b979c;
+    width: 148px;
+    height: 27px;
+    display: block;
+}
+
+.bigcircle{
+    margin:2px 0px 0px 3px;
+    float: left;
+    display: block;
+    width: 23px;
+    height: 23px;
+    background: url(../image/bigcircle.png);
+    list-style-type: none;
+}
+
+.producttxt{
+    margin: 8px 0px 0px 3px;
+    float: left;
+    display: block;
+    font-size: 13px;
+    color: #114165;
+    font-family: "Lucida Sans Unicoderegular", arial, tahoma;
+}
+
+.product1icon{
+    margin: 7px 0px 0px 38px;
+    float: left;
+    list-style-type: none;
+    background: url(../image/smallcirclenormal.png);
+    background-repeat: no-repeat;
+}
+
+.product1icon:hover{
+    background: url(../image/smallcirclebold.png);
+    background-repeat: no-repeat;
+}
+
+.product1{
+    margin: 0px 0px 0px 12px;
+    display: block;
+    float: left;
+    font-size: 13px;
+    color: #114165;
+    font-family: "Lucida Sans Unicoderegular", arial, tahoma;
+    list-style-type: none;
+    text-decoration: none;
+    height: 18px;
+}
+
+.product1:hover{
+    font-family: arial;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 13px;
+}
+
+/*Центральная колонка*/
+.centerColumn{
+    margin-top: 14px;
+    width: 527px;
+    height: 627px;
+    float: left;
+    background: #a9b8bf;
+    background: linear-gradient(#e4e7e8, #93a7b0);
+    border-radius: 3px;
+    border: none;
+}
+
+.tire-img{
+    margin: 16px 7px 7px 22px;
+    display: block;
+    float: left;
+    width: 139px;
+    height: 180px;
+}
+
+.tire-tm{
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    color: #206988;
+    font-family: "Lucida Sans Unicoderegular", arial, tahoma;
+    text-decoration: none;
+}
+
+.tire-model-description{
+    margin-bottom: 1px;
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    color: black;
+    font-family: "Lucida Sans Unicoderegular", arial, tahoma;
+}
+
+.tipe-price{
+    margin: 0px 0px 0px 35px;
+    display: block;
+    font-size: 18px;
+    color: #114165;
+    font-family: arial, "Lucida Sans Unicoderegular", tahoma;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: -1px;
+    float: left;
+}
+
+.tipe-price-grn{
+    margin: 3px 0px 0px 6px;
+    display: block;
+    font-size: 14px;
+    color: #114165;
+    font-family: arial, "Lucida Sans Unicoderegular", tahoma;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: -1px;
+    float: right;
+}
+
+/*Правая колонка*/
+.rightColumn{
+    margin-top: 14px;
+    width: 192px;
+    height: 627px;
+    float: left;
+}
+
+.katalog2{
+    margin: 3px 0px 0px 11px;
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #8b979c;
+    width: 180px;
+    height: 24px;
+    box-shadow: 1px 2px 2px 0px rgba(180,180,180,3);
+    display: block;
+}
+
+.product2{
+    clear: both;
+    margin: 14px 0px 0px 25px;
+    background: white;
+    border-radius: 12px;
+    border: 1px solid #8b979c;
+    width: 134px;
+    height: 27px;
+    display: block;
+}
+
+.product3{
+    clear: both;
+    margin: 14px 0px 0px 25px;
+    background: white;
+    border-radius: 12px;
+    border: 1px solid #8b979c;
+    width: 134px;
+    height: 27px;
+    display: block;
+}
+
+.productcheck1{
+    margin: 6px 0px 0px 30px;
+    list-style-type: none;
+    text-decoration: none;
+    height: 18px;
+}
+
+.productcheck2{
+    margin-left: 5px;
+    font-size: 13px;
+    color: #114165;
+    font-family: "Lucida Sans Unicoderegular", arial, tahoma;
+    text-decoration: none;
+}
+
+.checkbutton{
+    margin: 22px 0px 0px 36px;
+    padding: 5px 11px;
+    display: block;
+    width: auto;
+    background: #13486b;
+    background: linear-gradient(#1f6787, #0c3357);
+    border-radius: 10px;
+    font-size: 11px;
+    color: white;
+    font-family: arial, "Lucida Sans Unicoderegular", tahoma;
+    text-decoration: none;
+    box-shadow: 1px 2px 1px 1px rgba(180,180,180,3);
+}
