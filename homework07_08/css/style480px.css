@@ -1,0 +1,163 @@
+
+@media (min-width: 480px){
+
+.top-background{
+    height: 548px;
+}
+
+.header{
+    width: 100%;
+}
+
+.header__background {
+    margin-top: 37px;
+    padding-top: 92px;
+    display: block;
+    background-color: rgba(0,0,0,0.2);
+    width: 100%;
+    height: 154px;
+}
+
+.header__variable-menu--border{
+    margin: 0px auto;
+    width: 440px;
+}
+
+.header__variable-menu--title{
+    margin: 0px 220px 0px 0px;
+}
+
+.header__variable-menu--paragraph{
+    margin: 2px 220px 0px 10px;
+}
+
+.header__img-iphone{
+    position: absolute;
+    display: block;
+    margin: -103px 0px 0px 245px;
+    width: 185px;
+    height: 296px;
+    background: url(../img/iphone.png) no-repeat;
+    z-index: 1;
+}
+
+.header__radio-button{
+    margin: 20px 47.5%;
+}
+
+.blurb__border {
+    padding: 80px 0px;
+    width: 440px;
+}
+
+.blurb__about{
+    margin: 0px 0px 28px 0px;
+    width: 380px;
+}
+
+.blurb__about--title {
+    margin-left: 21px;
+}
+
+.blurb__about--title-txt {
+    margin: -5px 0px 0px 64px;
+    width: 370px;
+    height: 71px;
+}
+
+.blurb__about--read-more {
+    clear: both;
+    margin: 15px -53px 0px 0px;
+}
+
+.testimonial__border {
+    width: 480px;
+}
+
+.testimonial__info-box {
+    width: 416px;
+    margin-left: 43px;
+}
+
+.testimonial__info-box--title {
+    font-size: 28px;
+    display: block;
+    margin: 28px 0px 0px 39px;
+    float: left;
+}
+
+.testimonial__info-box--start {
+    display: block;
+    font-size: 28px;
+    margin: 28px 0px 0px 140px;
+}
+
+.testimonial__info-box-txt {
+    margin: 13px 0px 0px 39px;
+    width: 355px;
+}
+
+.testimonial__radio-button{
+    margin: 71px 36%;
+}
+
+.testimonial__recent-updates {
+    width: 345px;
+    margin-left: 82px;
+}
+
+.testimonial__recent-updates--name {
+    margin-left: 68px;
+    margin-bottom: -2px;
+    height: 19px;
+    width: 260px;
+}
+
+.testimonial__recent-updates--txt {
+    margin-left: 68px;
+    width: 262px;
+}
+
+.testimonial__recent-updates--more {
+    margin-top: -3px;
+}
+
+.trade-mark {
+    height: 230px;
+}
+
+.trade-mark__border {
+    width: 370px;
+    padding: 20px;
+}
+
+.trade-mark__border li {
+    padding: 4% 7%;
+}
+
+.trade-mark__d {
+    margin-left: 8px;
+}
+
+.trade-mark__e {
+    margin-left: 0px;
+}
+
+.trade-mark__f {
+    margin-left: -30px;
+}
+
+.news-caregories {
+    display: block;
+}
+
+.footer__border {
+    padding-top: 45px;
+    width: 450px;
+}
+
+.footer_menu {
+    display: block;
+}
+
+}

@@ -1,0 +1,217 @@
+
+@media (min-width: 768px){
+
+.top-background{
+    height: 798px;
+}
+
+.header{
+    padding-top: 65px;
+}
+
+.header__background {
+    margin-top: 130px;
+    padding-top: 92px;
+    width: 100%;
+    height: 307px;
+}
+
+.header__logo-menu-border{
+    margin: 0px auto;
+    width: 728px;
+}
+
+.header__logo{
+    margin-left: -4px;
+}
+
+.header_main-menu {
+    display:block;
+}
+
+.header__home-button{
+    display: none;
+}
+
+.header__variable-menu--border{
+    margin: 0px auto;
+    width: 728px;
+}
+
+.header__variable-menu--title{
+    margin: 3px 0px 0px 21px;
+    font-size: 47px;
+    width: 240px;
+}
+
+.header__variable-menu--paragraph{
+    margin: 8px 435px 0px 20px;
+    font-size: 24px;
+    width: 270px;
+    height: 21px;
+}
+
+.header__variable-menu--txt{
+    margin: 10px 0px 0px 22px;
+    display: block;
+    font-size: 16px;
+    width: 280px;
+    height: 92px;
+}
+
+.header__img-iphone{
+    margin: -119px 0px 0px 427px;
+    width: 274px;
+    height: 473px;
+    background: url(../img/iphone-big.png) no-repeat;
+}
+
+.header__radio-button{
+    margin: 36px 59.8%;
+}
+
+.blurb {
+    height: 341px;
+}
+
+.blurb__border {
+    padding: 78px 0px;
+    width: 768px;
+}
+
+.blurb__about{
+    margin: 0px 30px 0px 16px;
+    width: 210px;
+}
+
+.blurb__about--title {
+    margin-left: 21px;
+}
+
+.blurb__about--title-txt {
+    margin: -5px 0px 0px 66px;
+    width: 160px;
+    height: 143px;
+}
+
+.blurb__about--read-more {
+    margin: 6px -15px 0px 0px;
+}
+
+.testimonial {
+    height: 490px;
+}
+
+.testimonial__border {
+    width: 768px;
+}
+
+.testimonial__info-box {
+    width: 313px;
+    margin-left: 43px;
+    margin-top: 33px;
+}
+
+.testimonial__info-box--title {
+    font-size: 24px;
+    margin: 29px 0px 0px 39px;
+}
+
+.testimonial__info-box--start {
+    clear: both;
+    font-size: 24px;
+    margin: 28px 0px 0px 39px;
+}
+
+.testimonial__info-box-txt {
+    margin: 9px 0px 0px 43px;
+    width: 250px;
+    height: 140px;
+}
+
+.testimonial__radio-button{
+    margin: 71px 36%;
+}
+
+.testimonial__recent-updates {
+    width: 335px;
+    margin: 64px 0px 0px 59px;
+}
+
+.trade-mark {
+    height: 118px;
+}
+
+.trade-mark__border {
+    width: 780px;
+    padding: 16px;
+}
+
+.trade-mark__border li{
+    padding: 1% 3.4%;
+}
+
+.trade-mark__d {
+    margin-left: 10px;
+}
+
+.trade-mark__e {
+    margin-left: 3px;
+}
+
+.trade-mark__f {
+    margin-left: 0px;
+}
+
+.news-caregories {
+    height: 397px;
+}
+
+.news-caregories__border {
+    width: 850px;
+
+}
+
+.news-caregories__box {
+    margin: 80px 0px 0px 60px;
+    float: left;
+    position: relative;
+}
+
+.news-caregories__box--pingbuller--copyright {
+    margin-top: 3px;
+}
+
+.news-caregories__box--pingbuller--txt {
+    margin-top: 2px;
+    width: 205px;
+    height: 145px;
+}
+
+.news-caregories__box--title {
+    font-size: 24px;
+}
+
+.news-caregories__box--txt {
+    margin-top: 10px;
+    width: 205px;
+    height: 165px;
+}
+
+.footer__border {
+    width: 728px;
+}
+
+.footer_menu {
+    margin-left: -23px;
+}
+
+.footer_menu li{
+    margin: 0px 22px;
+}
+
+.footer__designed-by{
+    text-align: right;
+}
+
+}

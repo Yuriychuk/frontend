@@ -1,0 +1,200 @@
+
+@media (min-width: 960px) {
+
+.top-background{
+    height: 846px;
+}
+
+.header__logo-menu-border{
+    width: 960px;
+}
+
+.header__logo{
+    margin-left: -4px;
+    margin-top: 0px;
+    float: left;
+}
+
+.header_main-menu{
+    margin: 10px 0px 0px 23%;
+    position: absolute;
+}
+
+.header_main-menu li{
+    margin-left: 26px;
+}
+
+.header_main-menu a{
+    font-size: 24px;
+}
+
+.header__background {
+    margin-top: 212px;
+    padding-top: 79px;
+    height: 321px;
+}
+
+.header__variable-menu--border{
+    margin: 0px auto;
+    width: 960px;
+}
+
+.header__variable-menu--title{
+    text-align: left;
+    margin: 0px;
+    font-size: 58px;
+    width: 510px;
+}
+
+.header__variable-menu--paragraph{
+    text-align: left;
+    margin: 0px 435px 0px 0px;
+    font-size: 32px;
+    width: 420px;
+    height: 28px;
+}
+
+.header__variable-menu--txt{
+    margin: 11px 0px 0px 0px;
+    font-size: 18px;
+    line-height: 1.3;
+    width: 510px;
+    height: 140px;
+}
+
+.header__img-iphone{
+    margin: -95px 0px 0px 615px;
+}
+
+.header__radio-button{
+    margin: 93px 64.2%;
+}
+
+.blurb {
+    height: 341px;
+}
+
+.blurb__border {
+    padding: 77px 0px;
+    width: 1100px;
+}
+
+.blurb__about{
+    margin: 0px -7px 0px 63px;
+    width: 283px;
+
+}
+
+.blurb__about--title {
+    margin-left: 21px;
+    font-size: 30px;
+}
+
+.blurb__about--title-txt {
+    margin: 3px 0px 0px 66px;
+    width: 243px;
+    height: 120px;
+}
+
+.blurb__about--read-more {
+    margin: 21px 0px 0px 0px;
+}
+
+.testimonial {
+    height: 484px;
+}
+
+.testimonial__border {
+    width: 960px;
+}
+
+.testimonial__info-box {
+    width: 425px;
+    margin-left: 23px;
+    margin-top: 29px;
+}
+
+.testimonial__info-box--title {
+    font-size: 30px;
+}
+
+.testimonial__info-box--start {
+    position: absolute;
+    font-size: 30px;
+    margin: 29px 0px 0px 142px;
+}
+
+.testimonial__info-box-txt {
+    margin: 66px 0px 0px 40px;
+    width: 360px;
+    height: 170px;
+}
+
+.testimonial__radio-button{
+    margin: 58px 39%;
+}
+
+.testimonial__recent-updates {
+    width: 450px;
+    margin: 57px 0px 0px 59px;
+}
+
+.testimonial__recent-updates--txt {
+    width: 380px;
+}
+
+.trade-mark__border {
+    width: 839px;
+    padding: 13px;
+}
+
+.trade-mark__border li{
+    padding: 1% 3.7%;
+}
+
+.news-caregories__border {
+    width: 1080px;
+
+}
+
+.news-caregories__box {
+    margin-top: 76px;
+}
+
+.news-caregories__box--pingbuller{
+    margin-top: -2px;
+    font-size: 45px;
+    letter-spacing: -2px;
+}
+
+.news-caregories__box--pingbuller--copyright {
+    margin-top: 15px;
+}
+.news-caregories__box--pingbuller--txt {
+    margin-top: 6px;
+    width: 280px;
+    height: 122px;
+}
+
+.news-caregories__box--title {
+    font-size: 29px;
+}
+
+.news-caregories__box--txt {
+    width: 280px;
+}
+
+footer{
+    height: 114px;
+}
+
+.footer__border {
+    width: 960px;
+}
+
+.footer__designed-by{
+    float: right;
+    margin-top: -51px;
+}
+
+}
