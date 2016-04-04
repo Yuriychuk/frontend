@@ -24,7 +24,7 @@ body{
     height: 516px;
 }
 
-.header{
+header{
     margin: 0px auto;
     width: 280px;
     height: 516px;
@@ -35,24 +35,24 @@ body{
     display: block;
 }
 
-.header__logo{
+h1{
     margin: 0px auto;
     display: block;
     width: 150px;
 }
 
-.header_main-menu {
+.header__menu {
     display: none;
     margin: 27px 0px 0px -27px;
 }
 
-.header_main-menu li{
+.header__menu li{
     margin: 0px 26px;
     float: left;
     list-style: none;
 }
 
-.header_main-menu a{
+.header__menu a{
     text-decoration: none;
     color: white;
     font-family: "League Gothic Regular", arial, tahoma;
@@ -60,7 +60,7 @@ body{
     text-shadow: 2px 2px 2px rgba(0,0,0,0.4);
 }
 
-.header_main-menu a:hover{
+.header__menu a:hover{
     border-bottom: 2px solid #edbfff;
 }
 
@@ -187,13 +187,9 @@ body{
     z-index: 2;
 }
 
-.header__radio-button li{
+.header__radio-button a{
     margin: 0px 2px;
     float: left;
-    list-style: none;
-}
-
-.header__radio-button a{
     display: block;
     width: 19px;
     height: 19px;
@@ -350,13 +346,9 @@ body{
     float: left;
 }
 
-.testimonial__radio-button li{
+.testimonial__radio-button a{
     margin: 0px 2px;
     float: left;
-    list-style: none;
-}
-
-.testimonial__radio-button a{
     display: block;
     width: 19px;
     height: 20px;

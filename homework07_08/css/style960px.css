@@ -9,22 +9,22 @@
     width: 960px;
 }
 
-.header__logo{
+h1{
     margin-left: -4px;
     margin-top: 0px;
     float: left;
 }
 
-.header_main-menu{
+.header__menu{
     margin: 10px 0px 0px 23%;
     position: absolute;
 }
 
-.header_main-menu li{
+.header__menu li{
     margin-left: 26px;
 }
 
-.header_main-menu a{
+.header__menu a{
     font-size: 24px;
 }
 
@@ -67,12 +67,9 @@
 }
 
 .header__radio-button{
-    margin: 93px 64.2%;
+    margin: 177px 64.2% 0px 64.2%;
 }
 
-.blurb {
-    height: 341px;
-}
 
 .blurb__border {
     padding: 77px 0px;
@@ -82,7 +79,6 @@
 .blurb__about{
     margin: 0px -7px 0px 63px;
     width: 283px;
-
 }
 
 .blurb__about--title {

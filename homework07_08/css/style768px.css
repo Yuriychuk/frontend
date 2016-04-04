@@ -5,7 +5,7 @@
     height: 798px;
 }
 
-.header{
+header{
     padding-top: 65px;
 }
 
@@ -21,11 +21,11 @@
     width: 728px;
 }
 
-.header__logo{
+h1{
     margin-left: -4px;
 }
 
-.header_main-menu {
+.header__menu {
     display:block;
 }
 
@@ -67,7 +67,7 @@
 }
 
 .header__radio-button{
-    margin: 36px 59.8%;
+    margin: 160px 59.8%;
 }
 
 .blurb {

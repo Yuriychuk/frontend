@@ -5,7 +5,7 @@
     height: 548px;
 }
 
-.header{
+header{
     width: 100%;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .header__radio-button{
-    margin: 20px 47.5%;
+    margin: 118px 47.5%;
 }
 
 .blurb__border {
